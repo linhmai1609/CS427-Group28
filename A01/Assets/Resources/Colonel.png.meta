@@ -1,0 +1,3483 @@
+fileFormatVersion: 2
+guid: fe7889d7a2f0cf441aa6ff54f1a74ff3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6358523977600379288
+    second: Colonel_0
+  - first:
+      213: 378347871504748551
+    second: Colonel_1
+  - first:
+      213: -6117492874478200350
+    second: Colonel_2
+  - first:
+      213: -97668623211097195
+    second: Colonel_3
+  - first:
+      213: -7928714692306860780
+    second: Colonel_4
+  - first:
+      213: -6980418735081645843
+    second: Colonel_5
+  - first:
+      213: 6472145518020309560
+    second: Colonel_6
+  - first:
+      213: 6058022808367889014
+    second: Colonel_7
+  - first:
+      213: -5429187889108578140
+    second: Colonel_8
+  - first:
+      213: -1196870482015379052
+    second: Colonel_9
+  - first:
+      213: -2112831857618762232
+    second: Colonel_10
+  - first:
+      213: 3467525860344945253
+    second: Colonel_11
+  - first:
+      213: 4209069755964985428
+    second: Colonel_12
+  - first:
+      213: 7011342003634480419
+    second: Colonel_13
+  - first:
+      213: 185123853997969070
+    second: Colonel_14
+  - first:
+      213: 7978318402354560666
+    second: Colonel_15
+  - first:
+      213: 6688105682940895804
+    second: Colonel_16
+  - first:
+      213: -1038738725002573714
+    second: Colonel_17
+  - first:
+      213: -3085326792234321006
+    second: Colonel_18
+  - first:
+      213: -6423212971150874420
+    second: Colonel_19
+  - first:
+      213: 2297102672675965898
+    second: Colonel_20
+  - first:
+      213: 9127539473582976952
+    second: Colonel_21
+  - first:
+      213: -1285988852277873076
+    second: Colonel_22
+  - first:
+      213: -7224244380698771308
+    second: Colonel_23
+  - first:
+      213: -7372103878167696204
+    second: Colonel_24
+  - first:
+      213: -2080991123617474405
+    second: Colonel_25
+  - first:
+      213: -3712684102924710509
+    second: Colonel_26
+  - first:
+      213: -4898656832299145737
+    second: Colonel_27
+  - first:
+      213: -4766907619562877288
+    second: Colonel_28
+  - first:
+      213: 127786146789993564
+    second: Colonel_29
+  - first:
+      213: 2786437148709396007
+    second: Colonel_30
+  - first:
+      213: 7671770131688649345
+    second: Colonel_31
+  - first:
+      213: 4540445373041633096
+    second: Colonel_32
+  - first:
+      213: 7552021836138311044
+    second: Colonel_33
+  - first:
+      213: -47965169632630010
+    second: Colonel_34
+  - first:
+      213: -6753849123300370978
+    second: Colonel_35
+  - first:
+      213: 3146346456942776177
+    second: Colonel_36
+  - first:
+      213: 1999196296530015008
+    second: Colonel_37
+  - first:
+      213: 683299858261116924
+    second: Colonel_38
+  - first:
+      213: 6292214001173264666
+    second: Colonel_39
+  - first:
+      213: 5792445665809366916
+    second: Colonel_40
+  - first:
+      213: 2973859070521742997
+    second: Colonel_41
+  - first:
+      213: -3890712837225733721
+    second: Colonel_42
+  - first:
+      213: 2653069943191001192
+    second: Colonel_44
+  - first:
+      213: -1031868128782893354
+    second: Colonel_45
+  - first:
+      213: 4605912767069559053
+    second: Colonel_46
+  - first:
+      213: 6486791442083367421
+    second: Colonel_47
+  - first:
+      213: 9045728800746770869
+    second: Colonel_48
+  - first:
+      213: -194218584161324951
+    second: Colonel_49
+  - first:
+      213: 8988679600930586856
+    second: Colonel_50
+  - first:
+      213: 4319168295903438454
+    second: Colonel_51
+  - first:
+      213: 6488109816607080020
+    second: Colonel_52
+  - first:
+      213: -3984357993996798481
+    second: Colonel_53
+  - first:
+      213: 7994627974783301370
+    second: Colonel_54
+  - first:
+      213: -2926411791451874831
+    second: Colonel_55
+  - first:
+      213: 3637184594469674971
+    second: Colonel_56
+  - first:
+      213: 6492582341055575336
+    second: Colonel_57
+  - first:
+      213: -3995133826167316728
+    second: Colonel_58
+  - first:
+      213: -5321136374318170113
+    second: Colonel_59
+  - first:
+      213: -3105881673783067822
+    second: Colonel_60
+  - first:
+      213: 5182458646000918065
+    second: Colonel_61
+  - first:
+      213: -8799788860264549072
+    second: Colonel_62
+  - first:
+      213: 7489215082333240439
+    second: Colonel_63
+  - first:
+      213: 8652819733430238077
+    second: Colonel_64
+  - first:
+      213: -1073576561856365628
+    second: Colonel_65
+  - first:
+      213: 5641979643147082387
+    second: Colonel_66
+  - first:
+      213: -1451733747593343073
+    second: Colonel_67
+  - first:
+      213: 4546501282008247569
+    second: Colonel_68
+  - first:
+      213: -5502961089632526668
+    second: Colonel_69
+  - first:
+      213: -4831757648928053257
+    second: Colonel_70
+  - first:
+      213: 7507150123337817329
+    second: Colonel_71
+  - first:
+      213: 6976272971304584494
+    second: Colonel_72
+  - first:
+      213: 2142403462356743092
+    second: Colonel_73
+  - first:
+      213: -508548032148489333
+    second: Colonel_74
+  - first:
+      213: -5597304193626735322
+    second: Colonel_75
+  - first:
+      213: -4181578599672189190
+    second: Colonel_76
+  - first:
+      213: -5793101956613131615
+    second: Colonel_77
+  - first:
+      213: -5530843343593349840
+    second: Colonel_78
+  - first:
+      213: 2221597328768425865
+    second: Colonel_79
+  - first:
+      213: 5203963056131721058
+    second: Colonel_80
+  - first:
+      213: -2587840114690692347
+    second: Colonel_81
+  - first:
+      213: -71365100028141220
+    second: Colonel_82
+  - first:
+      213: 5157020329303407605
+    second: Colonel_83
+  - first:
+      213: 659505418410117488
+    second: Colonel_84
+  - first:
+      213: 7352807304859033696
+    second: Colonel_85
+  - first:
+      213: 8750270293008059554
+    second: Colonel_86
+  - first:
+      213: 4272185632121365379
+    second: Colonel_87
+  - first:
+      213: -1143742802458993028
+    second: Colonel_88
+  - first:
+      213: -4944090534053385165
+    second: Colonel_89
+  - first:
+      213: 7992561766059258067
+    second: Colonel_90
+  - first:
+      213: -637012254599827921
+    second: Colonel_91
+  - first:
+      213: -4411307898460874568
+    second: Colonel_92
+  - first:
+      213: -7875987544545534233
+    second: Colonel_93
+  - first:
+      213: -410069144215968362
+    second: Colonel_94
+  - first:
+      213: -260646364527201223
+    second: Colonel_95
+  - first:
+      213: 546979822480929458
+    second: Colonel_96
+  - first:
+      213: 1303887717072227860
+    second: Colonel_97
+  - first:
+      213: -7460269934538393622
+    second: Colonel_98
+  - first:
+      213: -8309019465205901298
+    second: Colonel_99
+  - first:
+      213: -2041322263433166400
+    second: Colonel_100
+  - first:
+      213: 5894867732413350543
+    second: Colonel_101
+  - first:
+      213: -8756808215666032065
+    second: Colonel_102
+  - first:
+      213: 1037539229202300207
+    second: Colonel_103
+  - first:
+      213: -8356716627169368664
+    second: Colonel_104
+  - first:
+      213: -5042398614224547937
+    second: Colonel_105
+  - first:
+      213: -4337841097148123653
+    second: Colonel_106
+  - first:
+      213: -56721751205037846
+    second: Colonel_107
+  - first:
+      213: -3899932792554148645
+    second: Colonel_108
+  - first:
+      213: 6056187459221279333
+    second: Colonel_109
+  - first:
+      213: 406518605969241881
+    second: Colonel_110
+  - first:
+      213: -4664999716709708922
+    second: Colonel_111
+  - first:
+      213: -1130134345471336077
+    second: Colonel_112
+  - first:
+      213: -2612449270439222063
+    second: Colonel_113
+  - first:
+      213: -8321104681061280149
+    second: Colonel_114
+  - first:
+      213: 929775401786282072
+    second: Colonel_115
+  - first:
+      213: -7699486798697486387
+    second: Colonel_116
+  - first:
+      213: -3247954882577813007
+    second: Colonel_117
+  - first:
+      213: -948025203677684304
+    second: Colonel_118
+  - first:
+      213: 7475330234248337355
+    second: Colonel_119
+  - first:
+      213: 8961904994535422712
+    second: Colonel_120
+  - first:
+      213: -3281769378205771173
+    second: Colonel_121
+  - first:
+      213: 4954796891270839
+    second: Colonel_122
+  - first:
+      213: 1947114149557582515
+    second: Colonel_123
+  - first:
+      213: -6668988356792797298
+    second: Colonel_124
+  - first:
+      213: 1960216813476656121
+    second: Colonel_125
+  - first:
+      213: -5085085616946956253
+    second: Colonel_126
+  - first:
+      213: 6332773882357857121
+    second: Colonel_127
+  - first:
+      213: 8222988214666531332
+    second: Colonel_128
+  - first:
+      213: -6963511488521239614
+    second: Colonel_129
+  - first:
+      213: -6843089501005772784
+    second: Colonel_130
+  - first:
+      213: 3083769692357320805
+    second: Colonel_131
+  - first:
+      213: 6675421315372208727
+    second: Colonel_132
+  - first:
+      213: -1884977632871070938
+    second: Colonel_133
+  - first:
+      213: 4114102027035393243
+    second: Colonel_134
+  - first:
+      213: -334619834709662211
+    second: Colonel_135
+  - first:
+      213: -54439036709032236
+    second: Colonel_136
+  - first:
+      213: -418761546129214540
+    second: Colonel_137
+  - first:
+      213: 1308539370303868457
+    second: Colonel_138
+  - first:
+      213: -5314735976938669719
+    second: Colonel_139
+  - first:
+      213: -5313686327635821578
+    second: Colonel_140
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Colonel_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1189
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b910aab6f9fd9694cb5bda6a0261ac2d
+      internalID: 6358523977600379288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1189
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec01c317b46472742bca03cc29fe591f
+      internalID: 378347871504748551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1222
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc294954e34b4a42bb603c646b4d96c
+      internalID: -6117492874478200350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1219
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72923978d1b869e4384fc8094d6825ab
+      internalID: -97668623211097195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1247
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34691c54dd78b854cbcc658cfd63b44b
+      internalID: -7928714692306860780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1239
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dd4e468a54c1b47b1bb3bf7b25cc88
+      internalID: -6980418735081645843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1239
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f4562df8ac79647a6dbba60138a59f
+      internalID: 6472145518020309560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1186
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a58ff4c1aeb7408cb45db6486a424
+      internalID: 6058022808367889014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_8
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1188
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05704c7a10838164bbe1609564571728
+      internalID: -5429187889108578140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1244
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f23ea74fc1bf644812fc760428d9e9
+      internalID: -1196870482015379052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_10
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1221
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7f2c89e0bf2b42a6285d1bd9b6889
+      internalID: -2112831857618762232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_11
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1238
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9ff080dba9fae428d66d2604f81e7f
+      internalID: 3467525860344945253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_12
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1188
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4567d277d83a3c04aac1ffc37f29acee
+      internalID: 4209069755964985428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1232
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f2e00d8335bfd468d5db82fd271d69
+      internalID: 7011342003634480419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_14
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1215
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1882578272c985a438de2c1e8bc676fd
+      internalID: 185123853997969070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_15
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1196
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fb4fa52c25c364998876876023d4d2
+      internalID: 7978318402354560666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1196
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6709918dc4d2d2428b0085b0fe12b12
+      internalID: 6688105682940895804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_17
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1188
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbadae839b8fd442830b3dc246a3634
+      internalID: -1038738725002573714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_18
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1221
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b83d676738b9d44dadc222bd12bc882
+      internalID: -3085326792234321006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1223
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d886210df3fc634385b0a2250c2f07d
+      internalID: -6423212971150874420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_20
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1189
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb5e5db293a5d948b888160f4bb7d3e
+      internalID: 2297102672675965898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_21
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1213
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ac8cc3f94c1274bbe6f899ece3f1b8
+      internalID: 9127539473582976952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1189
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3441d61c40f18444b90a6cc25677ca1
+      internalID: -1285988852277873076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1191
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd335309187db5b4fbedc046571c0870
+      internalID: -7224244380698771308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_24
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1193
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac50c719b9811f44b260bb8389b255c
+      internalID: -7372103878167696204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1089
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7857b52371a034c8f5658cd588e30c
+      internalID: -2080991123617474405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1120
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f99912917a4163438bb87492c4edb89
+      internalID: -3712684102924710509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1089
+        width: 94
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e1ca4ecd3f1064a869cd497d6a7e8f
+      internalID: -4898656832299145737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1135
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01121208ebb370c46998304558cce346
+      internalID: -4766907619562877288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_29
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1129
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9308ef03bfa5a3241a4afa6595e3bc63
+      internalID: 127786146789993564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_30
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1070
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cacc5c06156b84c8456f0ae9ce0a40
+      internalID: 2786437148709396007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_31
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1081
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f19a16681703544805b1edb310a372
+      internalID: 7671770131688649345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_32
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1106
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a635a0c3ccc974fb24744977ec2b61
+      internalID: 4540445373041633096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_33
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1072
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef42a54be094c44b78458661f2f30a
+      internalID: 7552021836138311044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1072
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25c5ca0f77e98149b1f0bd0b1c1c826
+      internalID: -47965169632630010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 965
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772e27feac5ab9e4fb00a7e59bc45f54
+      internalID: -6753849123300370978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 996
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1746678b8db088b41947dd5c8c6b9965
+      internalID: 3146346456942776177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_37
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1020
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6b831decfa046438057f30586500e3
+      internalID: 1999196296530015008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_38
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1020
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a322767f02b0da469033f488c2bdaf1
+      internalID: 683299858261116924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_39
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 964
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20f798b4408e3d42814adfcb27091b5
+      internalID: 6292214001173264666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 959
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea465df86046bc24087a833f251c7551
+      internalID: 5792445665809366916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_41
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 992
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdf7ef1f8bdc924c9b91e2a93a056f4
+      internalID: 2973859070521742997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_42
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 957
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed1295b426d07b49a8b79c8476ae843
+      internalID: -3890712837225733721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 805
+        width: 52
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5513162a9ab33494094319f2bc737c7f
+      internalID: 2653069943191001192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_45
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 805
+        width: 52
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4553b380e80555c4683fe8f9f196fe63
+      internalID: -1031868128782893354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_46
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 805
+        width: 52
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a83b32f8a342a48856cec905411527
+      internalID: 4605912767069559053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_47
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 805
+        width: 50
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb76d2dd0a2470343aa1136e050bcb53
+      internalID: 6486791442083367421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_48
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 805
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3814cd3bb1f65d46b61f9d214b920c3
+      internalID: 9045728800746770869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 717
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfce3fb9bbaf0846915a38291ccc675
+      internalID: -194218584161324951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_50
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 740
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ec3230988f71941a9ada0e8f57cb3a
+      internalID: 8988679600930586856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 740
+        width: 20
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8244aef361cd7db4ca9b0bb7d2114778
+      internalID: 4319168295903438454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_52
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 717
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d2724016220ca41b04d6d478333ffd
+      internalID: 6488109816607080020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_53
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 717
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f66b369220f6f479b95f118dbd7fc2
+      internalID: -3984357993996798481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_54
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 723
+        width: 15
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9597011e1bc04ea2334099799f967
+      internalID: 7994627974783301370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_55
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 723
+        width: 15
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8040c836c8e7efc45b134da42358f527
+      internalID: -2926411791451874831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_56
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 716
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38386afdcb930bb4f95e39c9c7888318
+      internalID: 3637184594469674971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_57
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 621
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba387ef3063fa441b4a5959673cca0d
+      internalID: 6492582341055575336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_58
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 677
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee9d6be678eea47be661b65c995bff
+      internalID: -3995133826167316728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_59
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 677
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06af3729fb25ada4eabcdc2f887c35ce
+      internalID: -5321136374318170113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_60
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 641
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3fe2c282083174f8d4babbe8c51ea9
+      internalID: -3105881673783067822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_61
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 622
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e80fa095da07b40ae163cdada7a10b
+      internalID: 5182458646000918065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_62
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 680
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb3474633ef11c4c833cc56782a7849
+      internalID: -8799788860264549072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_63
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 680
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71112727dae1e5b4bb1ca23ba897013b
+      internalID: 7489215082333240439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_64
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 620
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54ca5c3adc64364b8b3a7f59246b0e2
+      internalID: 8652819733430238077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_65
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 621
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c6911b498650b43be41abea9045c7a
+      internalID: -1073576561856365628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_66
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 528
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2aba2131b728049b5c49b1ca491b27
+      internalID: 5641979643147082387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 524
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b3f11540fce364094f400235923bc9
+      internalID: -1451733747593343073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_68
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 505
+        width: 126
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b54032084cdcaf4b89a82460853a41c
+      internalID: 4546501282008247569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_69
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 384
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa03c38215610aa4391d9c214a7165b9
+      internalID: -5502961089632526668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_70
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 384
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed549466cf7404c4baefb60662d56bf9
+      internalID: -4831757648928053257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_71
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 384
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d7f09eb1b35d040bc9fdfb8845f3be
+      internalID: 7507150123337817329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_72
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 384
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0cdf65d1068d94f9d4337a550dc664
+      internalID: 6976272971304584494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_73
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 384
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234b16fd733c17e459f2a900b90fdc73
+      internalID: 2142403462356743092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_74
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 384
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f1e4f555f0e4c41b51549708f304f4
+      internalID: -508548032148489333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_75
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 384
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff4bc0950883dc4c8e51bf70707252f
+      internalID: -5597304193626735322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_76
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 384
+        width: 63
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9394302041f317241b6b255081252660
+      internalID: -4181578599672189190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_77
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813d6222e1b18ec458f91a47b169c57c
+      internalID: -5793101956613131615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_78
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 344
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfeeb2ddb867164dba138636717ca47
+      internalID: -5530843343593349840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_79
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db508a1b7777346a8823da0d5ec4b1
+      internalID: 2221597328768425865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 344
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351c5a85905b4cd44b91a54f5db55c62
+      internalID: 5203963056131721058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_81
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 364
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfbfd7ac66a866489ab3eb137da5c42
+      internalID: -2587840114690692347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_82
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 368
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad5c863f655ddd4488015d850e440eb
+      internalID: -71365100028141220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_83
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 370
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60e4648de638d44aae433d033108805
+      internalID: 5157020329303407605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_84
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 355
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663f283e8ddb2f4ebaff65cf7142815
+      internalID: 659505418410117488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_85
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 351
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d6b3d68d6d6cc4f89d4bf73ab6ecc0
+      internalID: 7352807304859033696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_86
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69acb934e0b2e714287a01bb0c0572c2
+      internalID: 8750270293008059554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_87
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 351
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ef8cdad165bf14ca7292c66e3d5342
+      internalID: 4272185632121365379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_88
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 344
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c19b3b6b78447f49a41c8b4b14f24f4
+      internalID: -1143742802458993028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_89
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 353
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5740440beaa424fa69a7a4c480a39b
+      internalID: -4944090534053385165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_90
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 344
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137156ad34534fb4792db8a82d9a46cf
+      internalID: 7992561766059258067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_91
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 317
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf80ab8454d1d804ca2b8f9519d89ee8
+      internalID: -637012254599827921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_92
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 327
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687431367d1075a42bbb1a0c136798b7
+      internalID: -4411307898460874568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_93
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 330
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab72db40b63afdb4fad9ea0e0167ba98
+      internalID: -7875987544545534233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_94
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0a4ccf77fef2c44baa420efb4a76bd
+      internalID: -410069144215968362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_95
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 317
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2031ebff9f8b5f4785858c0b1a3bd26
+      internalID: -260646364527201223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_96
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 310
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b932772ff281ca40a138a0d29785c44
+      internalID: 546979822480929458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_97
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 314
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7508654f25fbfa4fa2ee3160f6344c7
+      internalID: 1303887717072227860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_98
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 288
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db43be801bf53489a3213b1ed4fc5d
+      internalID: -7460269934538393622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_99
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 317
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf1f9e51cd91494baa51b7a3e2bc4e3
+      internalID: -8309019465205901298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_100
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 327
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb526ad1d2034247b778cf7de0d3e97
+      internalID: -2041322263433166400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_101
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 325
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bb1ad9448e1d9449f2367a2d2691b3
+      internalID: 5894867732413350543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_102
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 311
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0503c2ab798fd44a5f9bebe5064ef7
+      internalID: -8756808215666032065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_103
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 315
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d73e15c5df1d654482e4956879fd044
+      internalID: 1037539229202300207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_104
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 316
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259ccfb6cc354fc4f8fc001db1ba5c19
+      internalID: -8356716627169368664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_105
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 321
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a977262ddf1d194fab4ee53f1043451
+      internalID: -5042398614224547937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 313
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43a612bb43b5224281bc98cb149ed3f
+      internalID: -4337841097148123653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_107
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 323
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7d250decc36541ad05612743d0d70
+      internalID: -56721751205037846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_108
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 321
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1ab5d9815c3340a61958736d5a7f2
+      internalID: -3899932792554148645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_109
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 322
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ed91c296c13cb42bf6cd10ab9744fc
+      internalID: 6056187459221279333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_110
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 310
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0778acfc0ec3514abc5b71e821a3818
+      internalID: 406518605969241881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_111
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 311
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca802d4309bd8e3468ce5462e4e4de20
+      internalID: -4664999716709708922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_112
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 310
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27eb22c1c37fc84b99e9232c01303a0
+      internalID: -1130134345471336077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_113
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 315
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ec0cc56c157be4c8dc251e83d935f0
+      internalID: -2612449270439222063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_114
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 309
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8aaf35496d6b44da21a9bb17014fc0
+      internalID: -8321104681061280149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_115
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 309
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de00a23618a8ca40b5c675f4395f0de
+      internalID: 929775401786282072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_116
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 308
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0efafb7334612a4f82f283915fc9dbb
+      internalID: -7699486798697486387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_117
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 291
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eb8f6d98715544a8411023c3bd8f5d
+      internalID: -3247954882577813007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_118
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 290
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec214c4b546e284889cf10b0fb0131e
+      internalID: -948025203677684304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_119
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4318732920d344849b43fc94dc0b1d42
+      internalID: 7475330234248337355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_120
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 226
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f8519e9965d8b4a9aa9f0e61927a7d
+      internalID: 8961904994535422712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_121
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 228
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22c8253c51d1e74fb038ab56a90e66b
+      internalID: -3281769378205771173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_122
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 224
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e2cbf4d97a0e54c880719d023ae113
+      internalID: 4954796891270839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_123
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 169
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f181c48e54ee5d49841d4ec2ff7cab0
+      internalID: 1947114149557582515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_124
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 168
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fd300adff8bdf49b5d09be82e55d60
+      internalID: -6668988356792797298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_125
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 171
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad3c957b0ceae34f8c19ff7784777b9
+      internalID: 1960216813476656121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_126
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 168
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3aad4c21daf7a479c51e2a3c5dfc2e
+      internalID: -5085085616946956253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_127
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 32
+        width: 15
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6641a64362822ff408279e908dd20a77
+      internalID: 6332773882357857121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_128
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 32
+        width: 14
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169ea1535aa376e419573fcb35b4a3b8
+      internalID: 8222988214666531332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_129
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 32
+        width: 10
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a19de37d72d4f5479a33e5c78469253
+      internalID: -6963511488521239614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_130
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 143
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f9165e77655dc42a3c17add1d1d2dc
+      internalID: -6843089501005772784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_131
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 113
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caee0c93ba82e6c4983935bc021938c7
+      internalID: 3083769692357320805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_132
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 64
+        width: 12
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a95147fac93d42bc670aa8123f33e
+      internalID: 6675421315372208727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_133
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 64
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b346100cb67a0e4a814c1e9f8cf4c5c
+      internalID: -1884977632871070938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_134
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 64
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eed829465b9564faf2a504cf01ba24
+      internalID: 4114102027035393243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_135
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 64
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d0214d317aad24faa10a16d5b75acc
+      internalID: -334619834709662211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_136
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 64
+        width: 5
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3941af2a5bd8e324ebddb0266a95509f
+      internalID: -54439036709032236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_137
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 36
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5f1b89d6cb2dd4fb88c6717d8f9e7d
+      internalID: -418761546129214540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_138
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 10
+        width: 115
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5de9c79b078fc04e83b76f1fb759cab
+      internalID: 1308539370303868457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_139
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 10
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ead46d32f8098e448a32373dff50244
+      internalID: -5314735976938669719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colonel_140
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 10
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ee3cc828528974f9dc195e25a06566
+      internalID: -5313686327635821578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2d5794c55d209c841b3ad4dfa7b75925
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
