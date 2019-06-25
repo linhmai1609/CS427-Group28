@@ -7,11 +7,16 @@ public class ZeroRun : MonoBehaviour
     // Start is called before the first frame update
     Vector2 zeroPosition;
 
-    public float speed = 0.5f;
-    public float force = 0.6f;
-    [SerializeField]
-    private PolygonCollider2D[] colliders;
-    private int currentColliderIndex = 0;
+    public float speed;
+    public float force;
+    //[SerializeField]
+    //private PolygonCollider2D[] colliders;
+    //private int currentColliderIndex = 0;
+
+    public bool isGrounded;
+    public Transform groundCheck;
+    public float groundCheckRadius;
+    public LayerMask whatIsGround;
 
     void Start()
     {
@@ -26,7 +31,7 @@ public class ZeroRun : MonoBehaviour
             zeroPosition = transform.position;
             zeroPosition.x -= speed;
             GetComponent<Animator>().SetBool("isRunning", true);
-            GetComponent<SpriteRenderer>().flipX = true;
+            transform.localScale = new Vector2(-5, 5);
             transform.position = zeroPosition;
         }
         if (Input.GetKey(KeyCode.RightArrow))
@@ -34,7 +39,7 @@ public class ZeroRun : MonoBehaviour
             zeroPosition = transform.position;
             zeroPosition.x += speed;
             GetComponent<Animator>().SetBool("isRunning", true);
-            GetComponent<SpriteRenderer>().flipX = false;
+            transform.localScale = new Vector2(5, 5);
             transform.position = zeroPosition;
         }
         if (Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.RightArrow))
@@ -48,6 +53,11 @@ public class ZeroRun : MonoBehaviour
         }
     }
 
+    private void FixedUpdate()
+    {
+        checkSurroundings();
+    }
+
     IEnumerator jumpTimer()
     {
         for (int i = 0; i < 7; ++i)
@@ -58,5 +68,16 @@ public class ZeroRun : MonoBehaviour
             transform.position = zeroPosition;
         }
         GetComponent<Animator>().SetBool("isJumping", false);
+    }
+
+    private void checkSurroundings()
+    {
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsGround);
+        GetComponent<Animator>().SetBool("isGrounded", isGrounded);
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
 }
