@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2859117827385812957}
   - component: {fileID: 2859117827385812962}
   - component: {fileID: 2859117827385812963}
+  - component: {fileID: 1704686293065025474}
   m_Layer: 0
   m_Name: heart
   m_TagString: Untagged
@@ -88,14 +89,31 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -6848918438649694570, guid: c7ff6faffd2cc7a4583d4396f48896e3,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.17, y: 0.16}
+  m_Size: {x: 0.19, y: 0.18}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!58 &1704686293065025474
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2859117827385812960}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0039020895, y: 0.007804775}
+  serializedVersion: 2
+  m_Radius: 0.10585852

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8241629409684305882}
   - component: {fileID: 8241629409684305885}
   - component: {fileID: 8241629409684305884}
+  - component: {fileID: 613286259600830806}
   m_Layer: 0
   m_Name: giantHealth
   m_TagString: Untagged
@@ -88,14 +89,31 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 1506594066334123347, guid: c7ff6faffd2cc7a4583d4396f48896e3,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.19, y: 0.32}
+  m_Size: {x: 0.17, y: 0.31}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!70 &613286259600830806
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8241629409684305887}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.000000085149495, y: -0.00000044277738}
+  m_Size: {x: 0.18115361, y: 0.32688013}
+  m_Direction: 0

@@ -222,7 +222,7 @@ GameObject:
   - component: {fileID: 456563781}
   - component: {fileID: 456563780}
   - component: {fileID: 456563783}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: bg2_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -394,7 +394,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.07, y: 1.95, z: -10}
+  m_LocalPosition: {x: -5.58, y: 2.41, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -411,7 +411,7 @@ GameObject:
   - component: {fileID: 627317335}
   - component: {fileID: 627317334}
   - component: {fileID: 627317337}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: bg3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -517,7 +517,7 @@ GameObject:
   - component: {fileID: 803687871}
   - component: {fileID: 803687870}
   - component: {fileID: 803687873}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: bg_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -836,6 +836,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5573294289469282800, guid: 9f4aef6acb7a01e4fa7b07fafc5d42c7,
+        type: 3}
+      propertyPath: whatIsGround.m_Bits
+      value: 256
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f4aef6acb7a01e4fa7b07fafc5d42c7, type: 3}
