@@ -3,90 +3,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-enum Keys
-{
-    UP, DOWN, LEFT, RIGHT,
-    Z, X, C
-}
-
-public class atkHandlerTrie
-{
-    static readonly int AVAILABLE_BUTTONS_NUM = 7;
-
-    class trieNode
-    {
-        public trieNode[] children = new trieNode[AVAILABLE_BUTTONS_NUM];
-
-        public bool endOfCombo;
-
-        public trieNode()
-        {
-            endOfCombo = false;
-            for (int i = 0; i < AVAILABLE_BUTTONS_NUM; i++)
-                children[i] = null;
-        }
-    }
-
-    static trieNode root;
-
-    // If not present, inserts key into trie 
-    // If the key is prefix of trie node,  
-    // just marks leaf node 
-    static void insert(String[] key)
-    {
-        int level;
-        int length = key.Length;
-        int index;
-
-        trieNode pCrawl = root;
-
-        for (level = 0; level < length; level++)
-        {
-            
-            if (pCrawl.children[index] == null)
-                pCrawl.children[index] = new trieNode();
-
-            pCrawl = pCrawl.children[index];
-        }
-
-        // mark last node as leaf 
-        pCrawl.endOfCombo = true;
-    }
-
-    // Returns true if key  
-    // presents in trie, else false 
-    static bool search(String key)
-    {
-        int level;
-        int length = key.Length;
-        int index;
-        trieNode pCrawl = root;
-
-        for (level = 0; level < length; level++)
-        {
-            index = key[level] - 'a';
-
-            if (pCrawl.children[index] == null)
-                return false;
-
-            pCrawl = pCrawl.children[index];
-        }
-
-        return (pCrawl != null && pCrawl.isEndOfWord);
-    }
-
-}
 
 public class zeroBehavior : MonoBehaviour
 {
     // Start is called before the first frame update
     Vector2 zeroPosition;
-
-    atkHandlerTrie
+    private System.Collections.Generic.Dictionary<KeyCode, bool> keys = new System.Collections.Generic.Dictionary<KeyCode, bool>();
 
     public float speed;
     public float force;
-    private float slashCounter = 0;
     private Animator animator;
     //[SerializeField]
     //private PolygonCollider2D[] colliders;
@@ -97,15 +22,21 @@ public class zeroBehavior : MonoBehaviour
     public float groundCheckRadius;
     public LayerMask whatIsGround;
 
+    //solving attack combo
+    int noOfClicks = 0;
+    float lastClickedTime = 0;
+    float maxComboDelay = 0.3f;
+
     void Start()
     {
         zeroPosition = transform.position;
         animator = gameObject.GetComponent<Animator>();
+        noOfClicks = Mathf.Clamp(noOfClicks, 0, 3);
     }
 
     // Update is called once per frame
     void Update()
-    {
+    {        
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             zeroPosition = transform.position;
@@ -130,12 +61,36 @@ public class zeroBehavior : MonoBehaviour
         {
             animator.SetBool("isJumping", true);
             StartCoroutine(jumpTimer());
+        }        
+
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            //OnClick();
+            lastClickedTime = Time.time;
+            print(lastClickedTime);
+            print(++noOfClicks +" no1");
+            animator.SetInteger("noOfClicks", noOfClicks);
+            if (noOfClicks == 1)
+            {
+                if (animator.GetBool("isGrounded"))
+                {
+                    animator.SetBool("isSlashing1", true);
+                }
+                else
+                    animator.SetBool("isAirSlashing", true);
+            }                       
+        }
+        if (Time.time - lastClickedTime > maxComboDelay)
+        {
+            noOfClicks = 0;
+            animator.SetInteger("noOfClicks", noOfClicks);
+            print(noOfClicks + "updated");
         }
     }
 
     private void FixedUpdate()
     {
-        checkSurroundings();
+        checkSurroundings();        
     }
 
     IEnumerator jumpTimer()
@@ -149,6 +104,62 @@ public class zeroBehavior : MonoBehaviour
         }
         animator.SetBool("isJumping", false);
     }
+
+    //void OnClick()
+    //{
+    //    //Record time of last button click
+    //    lastClickedTime = Time.time;
+    //    ++noOfClicks;
+    //    animator.SetInteger("noOfClicks", noOfClicks);
+    //    if (noOfClicks == 1)
+    //    {
+    //        animator.SetBool("isSlashing1", true);
+    //    }
+    //    //limit/clamp no of clicks between 0 and 3 because you have combo for 3 clicks
+    //    noOfClicks = Mathf.Clamp(noOfClicks, 0, 3);
+    //}
+
+    //IEnumerator slashTimer()
+    //{
+    //    switch (slashCount)
+    //    {
+    //        case 0:
+    //            yield return new WaitForSeconds(0.5f);
+    //            break;
+    //        case 1:
+    //            yield return new WaitForSeconds(0.5f);
+    //            break;
+    //        case 2:
+    //            yield return new WaitForSeconds(0.5f);
+    //            break;
+    //    }
+    //    if (Input.GetKey(KeyCode.C) && slashCount == 0)
+    //    {
+    //        animator.SetInteger("slashCounter", ++slashCount);
+    //        StartCoroutine(slashTimer());
+    //    }
+    //    else if (Input.GetKey(KeyCode.C) && slashCount == 1)
+    //    {
+    //        animator.SetInteger("slashCounter", ++slashCount);
+    //        StartCoroutine(slashTimer());
+    //    }
+    //    else if (Input.GetKey(KeyCode.C) && slashCount == 2)
+    //    {
+    //        animator.SetInteger("slashCounter", ++slashCount);
+    //        StartCoroutine(slashTimer());
+    //    }
+    //    else if (Input.GetKey(KeyCode.C) && slashCount == 3)
+    //    {
+    //        yield return new WaitForSeconds(0.5f);
+    //        StartCoroutine(slashTimer());
+    //    }
+    //    else
+    //    {
+    //        animator.SetBool("isSlashing", false);
+    //        animator.SetInteger("slashCounter", 0);
+    //        slashCount = 0;
+    //    }
+    //}
 
     private void checkSurroundings()
     {
