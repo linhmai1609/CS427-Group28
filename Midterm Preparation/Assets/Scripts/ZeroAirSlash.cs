@@ -20,6 +20,7 @@ public class ZeroAirSlash : StateMachineBehaviour
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         animator.SetBool("isAirSlashing", false);
+        animator.SetInteger("noOfClicks", 0);
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

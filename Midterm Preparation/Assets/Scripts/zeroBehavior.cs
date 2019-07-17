@@ -23,15 +23,14 @@ public class zeroBehavior : MonoBehaviour
     public LayerMask whatIsGround;
 
     //solving attack combo
-    int noOfClicks = 0;
+    public int noOfClicks = 0;
     float lastClickedTime = 0;
-    float maxComboDelay = 0.3f;
+    float maxComboDelay = 0.25f;
 
     void Start()
     {
         zeroPosition = transform.position;
-        animator = gameObject.GetComponent<Animator>();
-        noOfClicks = Mathf.Clamp(noOfClicks, 0, 3);
+        animator = gameObject.GetComponent<Animator>();        
     }
 
     // Update is called once per frame
@@ -57,7 +56,7 @@ public class zeroBehavior : MonoBehaviour
         {
             animator.SetBool("isRunning", false);
         }
-        if (Input.GetKeyDown(KeyCode.UpArrow))
+        if (Input.GetKeyDown(KeyCode.X))
         {
             animator.SetBool("isJumping", true);
             StartCoroutine(jumpTimer());
@@ -65,26 +64,34 @@ public class zeroBehavior : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.C))
         {
-            //OnClick();
-            lastClickedTime = Time.time;
-            print(lastClickedTime);
-            print(++noOfClicks +" no1");
-            animator.SetInteger("noOfClicks", noOfClicks);
-            if (noOfClicks == 1)
+            //OnClick();         
+            if (animator.GetBool("isGrounded"))
             {
-                if (animator.GetBool("isGrounded"))
+                lastClickedTime = Time.time;
+                print(lastClickedTime);
+                print(++noOfClicks + " no1");
+                animator.SetInteger("noOfClicks", noOfClicks);
+                if (noOfClicks == 1)
                 {
+
                     animator.SetBool("isSlashing1", true);
                 }
-                else
-                    animator.SetBool("isAirSlashing", true);
-            }                       
+                noOfClicks = Mathf.Clamp(noOfClicks, 0, 2);
+            }
+            else
+                animator.SetBool("isAirSlashing", true);
+            
         }
         if (Time.time - lastClickedTime > maxComboDelay)
         {
             noOfClicks = 0;
             animator.SetInteger("noOfClicks", noOfClicks);
             print(noOfClicks + "updated");
+        }
+        if (noOfClicks == 3)
+        {
+            noOfClicks = 0;
+            animator.SetInteger("noOfClicks", noOfClicks);
         }
     }
 
@@ -95,7 +102,7 @@ public class zeroBehavior : MonoBehaviour
 
     IEnumerator jumpTimer()
     {
-        for (int i = 0; i < 7; ++i)
+        for (int i = 0; i < 9; ++i)
         {
             yield return new WaitForSeconds(0.01f);
             zeroPosition = transform.position;
