@@ -3,69 +3,35 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-
-public class zeroBehavior : MonoBehaviour
+public class zeroBehavior : player
 {
-    // Start is called before the first frame update
+    // Start is called before the first frame update  
     Vector2 zeroPosition;
-    private System.Collections.Generic.Dictionary<KeyCode, bool> keys = new System.Collections.Generic.Dictionary<KeyCode, bool>();
 
-    public float speed;
-    public float force;
-    private Animator animator;
-    //[SerializeField]
-    //private PolygonCollider2D[] colliders;
-    //private int currentColliderIndex = 0;
-
-    public bool isGrounded;
-    public Transform groundCheck;
-    public float groundCheckRadius;
-    public LayerMask whatIsGround;
+    public Transform wallCheck;
+    private RaycastHit2D wallCheckHit;
 
     //solving attack combo
     public int noOfClicks = 0;
     float lastClickedTime = 0;
     float maxComboDelay = 0.25f;
+    public float wallCheckDistance;
 
-    void Start()
+    new void Start()
     {
-        zeroPosition = transform.position;
-        animator = gameObject.GetComponent<Animator>();        
+        base.Start();
+        zeroPosition = transform.position;     
     }
 
     // Update is called once per frame
-    void Update()
-    {        
-        if (Input.GetKey(KeyCode.LeftArrow))
-        {
-            zeroPosition = transform.position;
-            zeroPosition.x -= speed;
-            animator.SetBool("isRunning", true);
-            transform.localScale = new Vector2(-5, 5);
-            transform.position = zeroPosition;
-        }
-        if (Input.GetKey(KeyCode.RightArrow))
-        {
-            zeroPosition = transform.position;
-            zeroPosition.x += speed;
-            animator.SetBool("isRunning", true);
-            transform.localScale = new Vector2(5, 5);
-            transform.position = zeroPosition;
-        }
-        if (Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.RightArrow))
-        {
-            animator.SetBool("isRunning", false);
-        }
-        if (Input.GetKeyDown(KeyCode.X))
-        {
-            animator.SetBool("isJumping", true);
-            StartCoroutine(jumpTimer());
-        }        
+    new void Update()
+    {
+        base.Update();        
 
         if (Input.GetKeyDown(KeyCode.C))
         {
             //OnClick();         
-            if (animator.GetBool("isGrounded"))
+            if (animator.GetFloat("Speed") <= 0.01)
             {
                 lastClickedTime = Time.time;
                 print(lastClickedTime);
@@ -86,7 +52,6 @@ public class zeroBehavior : MonoBehaviour
         {
             noOfClicks = 0;
             animator.SetInteger("noOfClicks", noOfClicks);
-            print(noOfClicks + "updated");
         }
         if (noOfClicks == 3)
         {
@@ -95,22 +60,15 @@ public class zeroBehavior : MonoBehaviour
         }
     }
 
-    private void FixedUpdate()
+    new void FixedUpdate()
     {
-        checkSurroundings();        
+        base.FixedUpdate();
     }
 
-    IEnumerator jumpTimer()
+    public new void OnLanding()
     {
-        for (int i = 0; i < 9; ++i)
-        {
-            yield return new WaitForSeconds(0.01f);
-            zeroPosition = transform.position;
-            zeroPosition.y += force;
-            transform.position = zeroPosition;
-        }
-        animator.SetBool("isJumping", false);
-    }
+        base.OnLanding();
+    }    
 
     //void OnClick()
     //{
@@ -168,16 +126,7 @@ public class zeroBehavior : MonoBehaviour
     //    }
     //}
 
-    private void checkSurroundings()
-    {
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsGround);
-        animator.SetBool("isGrounded", isGrounded);
-    }
-
-    private void OnDrawGizmos()
-    {
-        Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
-    }
+    
 }
 
 

@@ -10,9 +10,10 @@ public class cameraFollows : MonoBehaviour
 
     public bool bounds;
 
-    Vector2 minCameraPos;
-    Vector2 maxCameraPos;
-
+    public float minX;
+    public float minY;
+    public float maxX;
+    public float maxY;
 
     public GameObject player;
 
@@ -28,10 +29,21 @@ public class cameraFollows : MonoBehaviour
 
         transform.position = new Vector3(posX, posY, transform.position.z);
 
-        if (bounds)
-        {
-            transform.position = new Vector2(Mathf.Clamp(transform.position.x, minCameraPos.x, maxCameraPos.x),
-                                             Mathf.Clamp(transform.position.y, minCameraPos.y, maxCameraPos.y));
-        }
+        //if (player.transform.position.x <= minX)
+        //{
+        //    transform.position = new Vector2(minX, player.transform.position.y);
+        //}
+        //if (player.transform.position.x >= maxX)
+        //{
+        //    transform.position = new Vector2(maxX, player.transform.position.y);
+        //}
+        //if (player.transform.position.y <= minY)
+        //{
+        //    transform.position = new Vector2(player.transform.position.x, minY);
+        //}
+        //if (player.transform.position.x >= maxY)
+        //{
+        //    transform.position = new Vector2(player.transform.position.x, maxY);
+        //}
     }
 }
